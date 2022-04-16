@@ -1,7 +1,9 @@
 ## Bem vindo(a) ao meu perfil!
 
-📚 Atualmente estudando Backend e Frontend | 📖 Estudando devagar e sempre | 🏫 Formação DEV IN HOUSE > ACATE e SENAI/SC | 🇧🇷
-
+📚 Atualmente estudando Backend e Frontend 
+📖 Estudando devagar e sempre
+🏫 Formação DEV IN HOUSE > ACATE e SENAI/SC 
+🇧🇷
 
 <div align="center">
   <a href="https://github.com/Edwanderson94">
