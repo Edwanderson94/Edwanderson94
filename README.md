@@ -11,8 +11,6 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div><br>
   
-  
-  
 > 📚 Estudando Backend e Frontend <br>
 > 🏫 Formação DEV IN HOUSE | ACATE e SENAI/SC <br>
 > 🇧🇷 <br>
