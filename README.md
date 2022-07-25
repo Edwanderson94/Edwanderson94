@@ -37,9 +37,7 @@
  <img align="center" alt="Wordpress" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
  
  ##
- 
-> 📚 Estudando Backend e Frontend <br>
-> 🏫 Formação DEV IN HOUSE | ACATE e SENAI/SC <br>
+
 > 🇧🇷 <br>
 
 ##
