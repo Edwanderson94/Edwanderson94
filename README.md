@@ -10,7 +10,7 @@
  ##
  
  <!-- Badges das linguagens de programação --> 
-#### Linguagens com as quais já tive contato:
+#### Linguagens com quais já atuei:
 <div style="display: inline_block">
   <img align="center" alt="Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
@@ -24,7 +24,7 @@
  ##
  
  <!-- Badges das ferramentas já utilizadas -->
- #### Ferramentas com as quais já tive contato:
+ #### Ferramentas com as quais já atuei:
  <div style="display: inline_block">
   <img align="center" alt="GitBash" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img align="center" alt="GitLab" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
