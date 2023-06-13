@@ -1,39 +1,45 @@
-## Bem vindo(a) ao meu perfil!
+## Seja Bem vindo(a)!
 
- <!-- Quadro com métricas --> 
-<div align="center">
-  <a href="https://github.com/Edwanderson94">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Edwanderson94&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwanderson94&layout=compact&langs_count=7&theme=merko"/>
+Me chamo Ed e sou Entusiasta de tecnologia com 10 anos de experiência, iniciei a carreira na area de suporte porem hoje estou atuando como DevOps. Com uma mentalidade de aprendizado contínuo, adoro explorar novas tecnologias. Atualmente, estou em uma curva de aprendizado emocionante como DevOps e estou ansioso para me aprofundar em Terraform, Cloud AWS e Python.
+
+- 👨‍💻 Trabalho como DevOps;
+- 👨‍🎓 Formado em Redes de Computadores, Em andamento Pós de Segurança da informação;
+- ☁ Estudando Terraform e Cloud AWS;
+- 📚 Lendo "Seja Egoísta com sua Carreira" - Luciano Santos
+
+## 
+
+<!-- Quadro com métricas --> 
+<div> 
+<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Edwanderson94&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+<img align="right" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwanderson94&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
- 
- ##
+<br>
+
+##
  
  <!-- Badges das linguagens de programação --> 
-#### Linguagens com quais já atuei:
+#### Resumo de linguagens, ferramentas e frameworks que utilizo atualmente:
 <div style="display: inline_block">
-  <img align="center" alt="Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="center" alt="Docker" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
-  <img align="center" alt="Java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Spring" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
- <img align="center" alt="php" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+<img align="center" alt="Docker" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+<img align="center" alt="Terraform" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
+<img align="center" alt="Git" height="60" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+<img align="center" alt="AWS" height="60" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+<img align="center" alt="Linux" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="center" alt="OpenShift" height="30" width="30" src="https://www.svgrepo.com/download/354143/openshift.svg" />
+<img align="center" alt="AzureDevOps" height="30" width="30" src="https://www.svgrepo.com/download/448271/azure-devops.svg" />
 </div>
 
  ##
  
- <!-- Badges das ferramentas já utilizadas -->
- #### Ferramentas com as quais já atuei:
+  <!-- Badges resumo ferramentas e linguagens -->
+ #### Resumo de linguagens, ferramentas e frameworks que já utilizei:
  <div style="display: inline_block">
-  <img align="center" alt="GitBash" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img align="center" alt="GitLab" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
-  <img align="center" alt="InteliJ" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg" />
-  <img align="center" alt="MySQL" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="PostGre" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="Putty" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />
-  <img align="center" alt="VIM" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" />
-  <img align="center" alt="VSCODE" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="Ubuntu" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-  <img align="center" alt="Wordpress" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
+<img align="center" alt="Java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="center" alt="PostGre" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="center" alt="Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+<img align="center" alt="HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+<img align="center" alt="CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+<img align="center" alt="Gitlab" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" />
+<img align="center" alt="Gitlab" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" />
 </div>
