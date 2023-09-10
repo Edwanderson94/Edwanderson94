@@ -5,7 +5,7 @@ Me chamo Ed e sou Entusiasta de tecnologia com 10 anos de experiência, iniciei 
 - 👨‍💻 Trabalho como DevOps;
 - 👨‍🎓 Formado em Redes de Computadores, Em andamento Pós de Segurança da informação;
 - ☁ Estudando Terraform e Cloud AWS;
-- 📚 Lendo "Os arquivos Snowdem" - Luke Harding - Editora LeYa
+- 📚 [Lendo "Os arquivos Snowdem" - Luke Harding - Editora LeYa](https://www.skoob.com.br/os-arquivos-snowden-374215ed422581.html)
 
 ## 
 
