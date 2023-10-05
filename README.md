@@ -26,7 +26,6 @@ Me chamo Ed e sou Entusiasta de tecnologia com 10 anos de experiência, iniciei 
 <img align="center" alt="Git" height="60" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 <img align="center" alt="AWS" height="60" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 <img align="center" alt="Linux" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="center" alt="OpenShift" height="30" width="30" src="https://www.svgrepo.com/download/354143/openshift.svg" />
 <img align="center" alt="AzureDevOps" height="30" width="30" src="https://www.svgrepo.com/download/448271/azure-devops.svg" />
 </div>
 
