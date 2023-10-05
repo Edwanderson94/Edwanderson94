@@ -28,17 +28,3 @@ Me chamo Ed e sou Entusiasta de tecnologia com 10 anos de experiência, iniciei 
 <img align="center" alt="Linux" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="center" alt="AzureDevOps" height="30" width="30" src="https://www.svgrepo.com/download/448271/azure-devops.svg" />
 </div>
-
- ##
- 
-  <!-- Badges resumo ferramentas e linguagens -->
- #### Resumo de linguagens, ferramentas e frameworks que já utilizei:
- <div style="display: inline_block">
-<img align="center" alt="Java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="center" alt="PostGre" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align="center" alt="Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-<img align="center" alt="HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-<img align="center" alt="CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-<img align="center" alt="Gitlab" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" />
-<img align="center" alt="Gitlab" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" />
-</div>
