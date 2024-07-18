@@ -6,17 +6,6 @@ Me chamo Ed e sou Entusiasta de tecnologia com 10 anos de experiência, iniciei 
 - 👨‍🎓 Formado em Redes de Computadores, Em andamento Pós de Segurança da informação;
 - ☁ Estudando Terraform e Cloud AWS;
 - 📚 Scrum - A arte de fazer o dobro do trabalho na metade do tempo.
-
-## 
-
-<!-- Quadro com métricas --> 
-<div> 
-<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Edwanderson94&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-<img align="right" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwanderson94&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
-<br>
-
-##
  
  <!-- Badges das linguagens de programação --> 
 #### Resumo de linguagens, ferramentas e frameworks que utilizo atualmente:
