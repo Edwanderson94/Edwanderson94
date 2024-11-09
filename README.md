@@ -4,7 +4,7 @@ Me chamo Ed e sou Entusiasta de tecnologia com 10 anos de experiência, iniciei 
 
 - 👨‍💻 Trabalho como DevOps;
 - 👨‍🎓 Formado em Redes de Computadores, Em andamento Pós de Segurança da informação;
-- ☁ Estudando Terraform e Cloud AWS;
+- ☁ Estudando Kubernetes e Cloud AWS;
 - 📚 Scrum - A arte de fazer o dobro do trabalho na metade do tempo.
  
  <!-- Badges das linguagens de programação --> 
