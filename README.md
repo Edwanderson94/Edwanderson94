@@ -3,7 +3,7 @@
 Me chamo Ed e sou Entusiasta de tecnologia com 10 anos de experiência, iniciei a carreira na area de suporte porem hoje estou atuando como DevOps. Com uma mentalidade de aprendizado contínuo, adoro explorar novas tecnologias. Atualmente, estou em uma curva de aprendizado emocionante como DevOps e estou ansioso para me aprofundar em Terraform, Cloud AWS e Python.
 
 - 👨‍💻 Trabalho como DevOps Engineer;
-- 👨‍🎓 Formado em Redes de Computadores, Em andamento Pós de Segurança da informação;
+- 👨‍🎓 Formado em Redes de Computadores;
 - ☁ Estudando DevOps;
  
  <!-- Badges das linguagens de programação --> 
