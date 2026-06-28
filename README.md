@@ -18,8 +18,7 @@
       </div>
     </td>
     <td width="42%" valign="top" align="center">
-      <!-- Replace this image with your GIF when ready -->
-      <img src="https://placehold.co/520x360/111827/94a3b8?text=GIF+here" alt="Espaco para GIF" width="100%" />
+      <img src="./assets/edevops_office_terminal_800px.gif" alt="EdevOps terminal animation" width="100%" />
     </td>
   </tr>
 </table>
