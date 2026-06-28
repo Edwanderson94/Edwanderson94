@@ -113,12 +113,6 @@ Abaixo reuno as ferramentas com as quais ja tive contato e experiencia pratica.
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
 </div>
 
-## Conecte-se comigo
-
-- GitHub: [@Edwanderson94](https://github.com/Edwanderson94)
-- LinkedIn: adicione seu link aqui
-- Email: adicione seu email aqui
-
 ## GitHub em resumo
 
 <div align="center">
