@@ -6,7 +6,7 @@
   <tr>
     <td width="58%" valign="top">
       <div align="center">
-        <h1>Iae, beleza? Me chamo Ed 👋</h1>
+        <h2>Iae, beleza? Me chamo Ed 👋</h2>
         <p>Sou DevOps / SRE focado em confiabilidade, automacao e operacao de plataformas em ambientes criticos.</p>
         <p>Trabalho conectando desenvolvimento, infraestrutura e negocio para entregar sistemas mais estaveis, escalaveis e observaveis.</p>
         <ul align="left">
@@ -27,6 +27,7 @@
 ## GitHub em resumo
 
 <div align="center">
+  <p>Um resumo rapido do meu perfil, das minhas entregas e das tecnologias que acompanham meu dia a dia.</p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Edwanderson94&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwanderson94&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </div>
