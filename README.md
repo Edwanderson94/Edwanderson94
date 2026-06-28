@@ -85,6 +85,7 @@ Abaixo reuno as ferramentas com as quais ja tive contato e experiencia pratica.
 
 <div align="left">
   <img src="https://img.shields.io/badge/ServiceNow-00C7B7?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow" />
+  <img src="https://img.shields.io/badge/IBM%20Control%20Desk-052FAD?style=for-the-badge" alt="IBM Control Desk" />
 </div>
 
 ### Cloud e Infraestrutura
@@ -121,6 +122,12 @@ Abaixo reuno as ferramentas com as quais ja tive contato e experiencia pratica.
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" />
   <img src="https://img.shields.io/badge/Harness-00A3E0?style=for-the-badge&logo=harness&logoColor=white" alt="Harness" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+</div>
+
+### Certificacoes
+
+<div align="left">
+  <img src="https://img.shields.io/badge/ITIL%20v3-8C1D40?style=for-the-badge" alt="ITIL v3" />
 </div>
 
 ## Destaques
