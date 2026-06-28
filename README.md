@@ -33,6 +33,10 @@
   <img src="https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud Infrastructure" />
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge" alt="Datadog" />
   <img src="https://img.shields.io/badge/AppDynamics-1E5AA8?style=for-the-badge" alt="AppDynamics" />
+  <img src="https://img.shields.io/badge/Harness-00A3E0?style=for-the-badge&logo=harness&logoColor=white" alt="Harness" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence" />
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" />
