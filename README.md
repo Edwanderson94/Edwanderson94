@@ -17,7 +17,7 @@
         <img src="https://komarev.com/ghpvc/?username=Edwanderson94&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
       </div>
     </td>
-    <td width="42%" valign="top" align="center">
+    <td width="42%" valign="middle" align="center">
       <img src="./assets/edevops_office_terminal_800px.gif" alt="EdevOps terminal animation" width="100%" />
     </td>
   </tr>
