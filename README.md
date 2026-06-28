@@ -46,19 +46,28 @@
 ### Observabilidade
 
 <div align="left">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge" alt="Datadog" />
   <img src="https://img.shields.io/badge/AppDynamics-1E5AA8?style=for-the-badge" alt="AppDynamics" />
   <img src="https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white" alt="Dynatrace" />
 </div>
 
-### Agile e Delivery
+### Agile
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Harness-00A3E0?style=for-the-badge&logo=harness&logoColor=white" alt="Harness" />
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence" />
+  <img src="https://img.shields.io/badge/Azure_Boards-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure Boards" />
+  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp" />
+</div>
+
+### CI/CD
+
+<div align="left">
   <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" />
+  <img src="https://img.shields.io/badge/Harness-00A3E0?style=for-the-badge&logo=harness&logoColor=white" alt="Harness" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
 </div>
 
 ## Destaques
