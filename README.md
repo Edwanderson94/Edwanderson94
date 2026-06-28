@@ -10,10 +10,10 @@
         <p>Sou DevOps / SRE focado em confiabilidade, automacao e operacao de plataformas em ambientes criticos.</p>
         <p>Trabalho conectando desenvolvimento, infraestrutura e negocio para entregar sistemas mais estaveis, escalaveis e observaveis.</p>
         <ul align="left">
-          <li>Atuo com cloud, Kubernetes, IaC e observabilidade</li>
-          <li>Base em suporte, redes e ambientes de producao</li>
-          <li>Foco em automacao, confiabilidade e entrega continua</li>
-        </ul>
+        <li>☁️ Atuo com cloud, Kubernetes, IaC e observabilidade</li>
+        <li>🛠️ Base em suporte, redes e ambientes de producao</li>
+        <li>⚙️ Foco em automacao, confiabilidade e entrega continua</li>
+      </ul>
         <img src="https://komarev.com/ghpvc/?username=Edwanderson94&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
       </div>
     </td>
