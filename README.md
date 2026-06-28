@@ -67,6 +67,26 @@ Abaixo reuno as ferramentas com as quais ja tive contato e experiencia pratica.
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
+### Automacao e Orquestracao
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Ansible-1A1918?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/Rundeck-4B6EAF?style=for-the-badge" alt="Rundeck" />
+</div>
+
+### Seguranca e Segredos
+
+<div align="left">
+  <img src="https://img.shields.io/badge/CyberArk-000000?style=for-the-badge" alt="CyberArk" />
+  <img src="https://img.shields.io/badge/HashiCorp%20Vault-000000?style=for-the-badge&logo=vault&logoColor=white" alt="HashiCorp Vault" />
+</div>
+
+### ITSM e Operacao
+
+<div align="left">
+  <img src="https://img.shields.io/badge/ServiceNow-00C7B7?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow" />
+</div>
+
 ### Cloud e Infraestrutura
 
 <div align="left">
