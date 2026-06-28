@@ -25,6 +25,8 @@
 
 ## Stack
 
+Abaixo apresento as ferramentas com as quais ja trabalhei ou trabalho, e que tive a oportunidade de explorar e entender na pratica.
+
 ### Programação
 
 <div align="left">
