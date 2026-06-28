@@ -22,13 +22,6 @@
   </tr>
 </table>
 
-## O que estou construindo
-
-- Automacoes para tarefas de infraestrutura e operacao
-- Infraestrutura como codigo com Terraform
-- Estudos e experimentos com AWS e Python
-- Rotinas para melhorar confiabilidade, padronizacao e entrega continua
-
 ## Stack
 
 Abaixo reuno as ferramentas com as quais ja tive contato e experiencia pratica.
@@ -117,12 +110,6 @@ Abaixo reuno as ferramentas com as quais ja tive contato e experiencia pratica.
   <img src="https://img.shields.io/badge/Harness-00A3E0?style=for-the-badge&logo=harness&logoColor=white" alt="Harness" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
 </div>
-
-## Destaques
-
-- Experiencia em suporte, redes e operacao de ambientes
-- Evolucao constante em cloud, automacao e confiabilidade
-- Interesse em padronizacao, melhoria de processos e entrega continua
 
 ## Conecte-se comigo
 
