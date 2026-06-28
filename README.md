@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td width="58%" valign="top">
-      <h1>Oi, eu sou o Ed</h1>
+      <h1>Iae, beleza? Me chamo Ed</h1>
       <p>Sou DevOps / SRE focado em confiabilidade, automacao e operacao de plataformas em ambientes criticos.</p>
       <p>Trabalho conectando desenvolvimento, infraestrutura e negocio para entregar sistemas mais estaveis, escalaveis e observaveis.</p>
       <ul>
