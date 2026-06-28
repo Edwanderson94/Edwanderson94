@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./assets/EdevOps.png" alt="EDEVOPS" width="720" />
+</div>
+
 <table>
   <tr>
     <td width="58%" valign="top">
