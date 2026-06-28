@@ -24,6 +24,13 @@
   </tr>
 </table>
 
+## GitHub em resumo
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Edwanderson94&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwanderson94&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</div>
+
 ## Stack
 
 Abaixo reuno as ferramentas com as quais ja tive contato e experiencia pratica.
@@ -111,11 +118,4 @@ Abaixo reuno as ferramentas com as quais ja tive contato e experiencia pratica.
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" />
   <img src="https://img.shields.io/badge/Harness-00A3E0?style=for-the-badge&logo=harness&logoColor=white" alt="Harness" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-</div>
-
-## GitHub em resumo
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Edwanderson94&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwanderson94&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </div>
