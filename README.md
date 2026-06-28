@@ -6,12 +6,12 @@
   <tr>
     <td width="58%" valign="top">
       <h1>Oi, eu sou o Ed</h1>
-      <p>DevOps / SRE focado em automacao, infraestrutura como codigo e melhoria continua de plataformas.</p>
-      <p>Venho de suporte e redes, e hoje construo ambientes mais seguros, escalaveis e observaveis.</p>
+      <p>Sou DevOps / SRE focado em confiabilidade, automacao e operacao de plataformas em ambientes criticos.</p>
+      <p>Trabalho conectando desenvolvimento, infraestrutura e negocio para entregar sistemas mais estaveis, escalaveis e observaveis.</p>
       <ul>
-        <li>DevOps / SRE</li>
-        <li>Formado em Redes de Computadores</li>
-        <li>Foco em cloud, observabilidade, automacao e entrega continua</li>
+        <li>Atuo com cloud, Kubernetes, IaC e observabilidade</li>
+        <li>Base em suporte, redes e ambientes de producao</li>
+        <li>Foco em automacao, confiabilidade e entrega continua</li>
       </ul>
       <img src="https://komarev.com/ghpvc/?username=Edwanderson94&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
     </td>
@@ -24,10 +24,10 @@
 
 ## Sobre mim
 
-- Trabalho com DevOps / SRE
+- Trabalho com DevOps / SRE em ambientes de producao
 - Formado em Redes de Computadores
-- Estudando Terraform, AWS e Python
-- Foco em automacao, cloud, observabilidade e entrega continua
+- Experiencia com cloud, Kubernetes, IaC e observabilidade
+- Foco em automacao, confiabilidade e entrega continua
 
 ## O que estou construindo
 
