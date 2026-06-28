@@ -1,18 +1,55 @@
-## Seja bem-vindo(a)!
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1d4ed8&height=180&section=header&text=Edwanderson94&fontSize=34&fontColor=ffffff&animation=fadeIn" alt="header" />
+</div>
 
-Me chamo Ed e sou Entusiasta de tecnologia com 10 anos de experiência, iniciei a carreira na area de suporte porem hoje estou atuando como DevOps. Com uma mentalidade de aprendizado contínuo, adoro explorar novas tecnologias. Atualmente, estou em uma curva de aprendizado emocionante como DevOps e estou ansioso para me aprofundar em Terraform, Cloud AWS e Python.
+<div align="center">
+  <h1>Oi, eu sou o Ed</h1>
+  <p>DevOps / SRE focado em automacao, infraestrutura como codigo e melhoria continua de plataformas.</p>
+  <p>Venho de suporte e redes, e hoje construo ambientes mais seguros, escalaveis e observaveis.</p>
+  <img src="https://komarev.com/ghpvc/?username=Edwanderson94&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
 
-- 👨‍💻 Trabalho como DevOps / SRE;
-- 👨‍🎓 Formado em Redes de Computadores;
-- ☁ Estudando Particas DevOps e Python;
- 
- <!-- Badges das linguagens de programação --> 
-#### Resumo de linguagens, ferramentas e frameworks que utilizo atualmente:
-<div style="display: inline_block">
-<img align="center" alt="Docker" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
-<img align="center" alt="Terraform" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
-<img align="center" alt="Git" height="60" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-<img align="center" alt="AWS" height="60" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-<img align="center" alt="Linux" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="center" alt="AzureDevOps" height="30" width="30" src="https://www.svgrepo.com/download/448271/azure-devops.svg" />
+## Sobre mim
+
+- Trabalho com DevOps / SRE
+- Formado em Redes de Computadores
+- Estudando Terraform, AWS e Python
+- Foco em automacao, cloud, observabilidade e entrega continua
+
+## O que estou construindo
+
+- Automacoes para tarefas de infraestrutura e operacao
+- Infraestrutura como codigo com Terraform
+- Estudos e experimentos com AWS e Python
+- Rotinas para melhorar confiabilidade, padronizacao e entrega continua
+
+## Stack atual
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</div>
+
+## Destaques
+
+- Experiencia em suporte, redes e operacao de ambientes
+- Evolucao constante em cloud, automacao e confiabilidade
+- Interesse em padronizacao, melhoria de processos e entrega continua
+
+## Conecte-se comigo
+
+- GitHub: [@Edwanderson94](https://github.com/Edwanderson94)
+- LinkedIn: adicione seu link aqui
+- Email: adicione seu email aqui
+
+## GitHub em resumo
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Edwanderson94&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwanderson94&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </div>
