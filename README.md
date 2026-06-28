@@ -36,6 +36,22 @@
 - Estudos e experimentos com AWS e Python
 - Rotinas para melhorar confiabilidade, padronizacao e entrega continua
 
+## Experiencia
+
+### SR Tech Engineer - C6 Bank
+
+- SRE em ambiente de core financeiro, com foco em alta disponibilidade, escalabilidade, performance e confiabilidade
+- Sustentacao de microservices em Kubernetes, com troubleshooting em Kotlin, service mesh, health checks e analise de consumo de CPU e memoria
+- Atuacao em observabilidade com Grafana e AppDynamics, IaC com Terraform na AWS e suporte a incidentes de banco de dados e core bancario
+- Contato com Ansible, Terraform, Kubernetes, Harness, Concourse, Rundeck, AWS, OCI, Jira, ServiceNow, Confluence e Bitbucket
+
+### SRE / DevOps Senior - Master Corretora
+
+- Sustentacao e evolucao de CI/CD com Azure DevOps, incluindo pipelines templatizadas, migracao de pipelines classicas e melhoria de fluxo de deploy
+- Atuacao em microservices e Kubernetes, com ajustes em manifestos, Dockerfiles, requests e limits, alem de apoio a troubleshooting em ambientes EKS
+- Automacao com scripts em PowerShell e Linux, alem de suporte a GitOps, governanca de acessos e organizacao de recursos na AWS
+- Experiencia com Datadog, Grafana, Azure DevOps, Bitbucket, Harness, Kubernetes, EKS, ECR, EC2, S3 e Secret Manager
+
 ## Stack
 
 Abaixo reuno as ferramentas com as quais ja tive contato e experiencia pratica.
