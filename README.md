@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/EdevOps.png" alt="EDEVOPS" width="720" />
+  <img src="./assets/edevops_office_terminal_800px.gif" alt="EdevOps terminal animation" width="100%" />
 </div>
 
 <table>
@@ -18,7 +18,7 @@
       </div>
     </td>
     <td width="42%" valign="middle" align="center">
-      <img src="./assets/edevops_office_terminal_800px.gif" alt="EdevOps terminal animation" width="100%" />
+      <img src="./assets/EdevOps.png" alt="EDEVOPS" width="100%" />
     </td>
   </tr>
 </table>
