@@ -22,13 +22,6 @@
   </tr>
 </table>
 
-## Sobre mim
-
-- Trabalho com DevOps / SRE em ambientes de producao
-- Formado em Redes de Computadores
-- Experiencia com cloud, Kubernetes, IaC e observabilidade
-- Foco em automacao, confiabilidade e entrega continua
-
 ## O que estou construindo
 
 - Automacoes para tarefas de infraestrutura e operacao
