@@ -1,13 +1,22 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1d4ed8&height=180&section=header&text=Edwanderson94&fontSize=34&fontColor=ffffff&animation=fadeIn" alt="header" />
-</div>
-
-<div align="center">
-  <h1>Oi, eu sou o Ed</h1>
-  <p>DevOps / SRE focado em automacao, infraestrutura como codigo e melhoria continua de plataformas.</p>
-  <p>Venho de suporte e redes, e hoje construo ambientes mais seguros, escalaveis e observaveis.</p>
-  <img src="https://komarev.com/ghpvc/?username=Edwanderson94&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <h1>Oi, eu sou o Ed</h1>
+      <p>DevOps / SRE focado em automacao, infraestrutura como codigo e melhoria continua de plataformas.</p>
+      <p>Venho de suporte e redes, e hoje construo ambientes mais seguros, escalaveis e observaveis.</p>
+      <ul>
+        <li>DevOps / SRE</li>
+        <li>Formado em Redes de Computadores</li>
+        <li>Foco em cloud, observabilidade, automacao e entrega continua</li>
+      </ul>
+      <img src="https://komarev.com/ghpvc/?username=Edwanderson94&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+    </td>
+    <td width="42%" valign="top" align="center">
+      <!-- Replace this image with your GIF when ready -->
+      <img src="https://placehold.co/520x360/111827/94a3b8?text=GIF+here" alt="Espaco para GIF" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ## Sobre mim
 
