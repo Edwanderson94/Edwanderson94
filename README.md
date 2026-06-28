@@ -23,7 +23,7 @@
 - Estudos e experimentos com AWS e Python
 - Rotinas para melhorar confiabilidade, padronizacao e entrega continua
 
-## Ferramentas com as quais ja tive contato
+## Stack
 
 ### Base de trabalho
 
