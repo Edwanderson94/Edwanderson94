@@ -27,8 +27,8 @@
 
 <div align="center">
   <p>Um resumo rapido do meu perfil, das minhas entregas e das tecnologias que acompanham meu dia a dia.</p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Edwanderson94&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwanderson94&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=Edwanderson94&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwanderson94&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </div>
 
 ## Stack
