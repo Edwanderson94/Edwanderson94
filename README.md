@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="./assets/edevops_office_terminal_800px.gif" alt="EdevOps terminal animation" width="100%" />
+  <img src="./assets/edevops_terminal_comandos_animados.gif" alt="EdevOps terminal animation" width="100%" />
 </div>
 
 <table>
   <tr>
     <td width="58%" valign="top">
       <div align="center">
-        <h2>Iae, beleza? Me chamo Ed 👋</h2>
+        <h2>Iae, beleza? Me chamo Ed 👋⌨️</h2>
         <p>Sou DevOps / SRE focado em confiabilidade, automacao e operacao de plataformas em ambientes criticos.</p>
         <p>Trabalho conectando desenvolvimento, infraestrutura e negocio para entregar sistemas mais estaveis, escalaveis e observaveis.</p>
         <ul align="left">
